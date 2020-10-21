@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 🌱 I’m currently learning
+## 🌱 I’m in love with the codes :D
 
 <!--
 **faltun8/faltun8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
